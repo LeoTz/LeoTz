@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### My name is Timothy Joseph. I am currently doing my Bachelor of Science in Computer Engineering at the American University of Sharjah (AUS). 
+### I have a huge interest in the field of cybersecurity. I am currently learning the fundamentals to build myself up. 
 <!--
 **LeoTz/LeoTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
